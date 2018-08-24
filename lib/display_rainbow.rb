@@ -5,5 +5,5 @@ def display_rainbow(array)
  #{array[2][0].upcase}: #{array[2]},
  #{array[3][0].upcase}: #{array[3]},
  #{array[4][0].upcase}: #{array[4]},
- "
+"
 end
